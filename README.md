@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @deepgr8
-- 👀 I’m interested in ...Python coding
-- 🌱 I’m currently learning ...python object oriented programming
-- 💞️ I’m looking to collaborate on ... Python projects
+- 👀 I’m interested in ...coding
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...java, Python Automation and web development projects
 - 📫 How to reach me ...my email i'd- deepuprajapti5@gmail.com
 
 <!---
