@@ -1,3 +1,10 @@
+👋 Hi, I’m Deepu Prajapati
+I’m an aspiring Software and Android Developer with hands-on experience building modern, scalable mobile and backend applications. I specialize in Java, Kotlin, and Python, with a strong grasp of Object-Oriented Programming, Data Structures, and MVVM architecture.
+
+I’ve developed Android apps using Jetpack Compose, Firebase, Retrofit, and Dagger Hilt, and created secure, performant backend services using Flask and RESTful APIs. I also enjoy exploring AI/ML, working with tools like TensorFlow, YOLO, OpenCV, and EasyOCR to bring intelligence into mobile and web applications.
+
+I’m passionate about clean code, real-time communication systems, and creating intuitive user experiences. Whether it's integrating speech recognition, building chat systems, or implementing OCR in mobile apps, I love solving real-world problems through thoughtful software design.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/deepu-prajapati-00284a206/) 
